@@ -8,7 +8,7 @@ Link project của Nhất: https://github.com/Nhatdepzai/Styding-Basic-for-me
 
 
 ## Module 2:
-[Đệ quy](Module2_dequy.md)
+[Đệ quy](Module2_Dequy.md)
 
 Deadline: 11h55 pm 4/11/2018
 
