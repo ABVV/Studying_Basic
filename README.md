@@ -12,3 +12,8 @@ Link project của Nhất: https://github.com/Nhatdepzai/Styding-Basic-for-me
 
 Deadline: 11h55 pm 4/11/2018
 
+## Module 3:
+[Hàng đợi](Module3_Hangdoi.md)
+
+Deadline : 11h55 pm 21/11/2018
+
