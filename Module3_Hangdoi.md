@@ -5,6 +5,7 @@
 - Tìm hiểu kỹ càng, nghiên cứu sâu vào.
 - Không than vãn
 - Biết cách search google những câu không biết ( recomend bằng Tiếng Anh )
+- Deadline : 21 /11/ 2018
 ## Lý thuyết:
 - Tìm hiểu và tìm cách hiện thực Queue, Stack bằng Array, Linked List gồm các phương thức : push, pop.
 - Tìm hiểu và hiện thực cấu trúc heap : Build heap, Down Heap, hiện thực bằng Array.
