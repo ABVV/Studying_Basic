@@ -50,3 +50,15 @@ Output: In ra đường đi từ s -> t.
 
 Yêu cầu: Hiện thực trong hai cách : DFS, và DBS
 
+Ví dụ:
+```
+input:
+4 3
+1 2
+2 3
+2 5
+1 5
+
+output: 1 2 5
+```
+
