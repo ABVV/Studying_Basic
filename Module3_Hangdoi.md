@@ -29,12 +29,14 @@ output: 14
 ```
 
 ### Bài tập 2: 
-Cũng tương tự như bài tập 1 , nhưng có thêm các dấu ( ), *.
-Lưu ý: Các phép tính thực hiện từ trái qua phải, không xét tính ưu tiên. Vì vậy, các phép tính nào muốn tính trước thì để trong dấu ngoặc.
+Cũng tương tự như bài tập 1 , nhưng có thêm phép tính * , /. 
+
+Input cho vào là biểu thức theo dạng tiền tố.
+
 Ví dụ:
 ```
-input: "5 + (7*10) + 8"
-output: 83
+input: "* + 3 8 7"
+output: 77
 ```
 
 ### Bài tập 3
