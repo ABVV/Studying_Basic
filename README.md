@@ -36,3 +36,9 @@ Nhắc nhở:
 - Không hiện thực heap
 - Bài tập không làm
 - Khi tìm hiểu một giải thuật, cần có demo giải thuật đó ( chèn ảnh, chèn code)...
+
+## Module 4:
+
+[Sort](Module4_Sort.md)
+
+Deadline : 2/1/2019
